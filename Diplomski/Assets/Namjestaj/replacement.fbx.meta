@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: af9061c88c9f5ec4b91e75ca158e3b1d
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: 933173181257324166
+    second: Plane|Cube.002Action
+  - first:
+      74: -5717010350121938596
+    second: Plane|Cube.002Action.001
+  - first:
+      74: -4278979608170211373
+    second: Plane|Cube.029|Cube.002|Cube.002Action.001|Cube.002|Cube.002Action.00
+  - first:
+      74: -4093242712676257420
+    second: Plane|Cube.029|Cube.002|Cube.002Action|Cube.002|Cube.002Action
+  - first:
+      74: -2520027159335960561
+    second: Plane|Cube.029|Cube.002|PlaneAction.001|Cube.002|PlaneAction.001
+  - first:
+      74: -3054597343283289580
+    second: Plane|Cube.029|Cube.002|PlaneAction|Cube.002|PlaneAction
+  - first:
+      74: -3280919052050198265
+    second: Plane|Cube.029|Cube.002|SceneAction|Cube.002|SceneAction
+  - first:
+      74: 8968137839258146935
+    second: Plane|Plane.001|Plane|Cube.002Action.001|Plane|Cube.002Action.001
+  - first:
+      74: 5453988486503940880
+    second: Plane|Plane.001|Plane|Cube.002Action|Plane|Cube.002Action
+  - first:
+      74: 4776258346037425383
+    second: Plane|Plane.001|Plane|PlaneAction.001|Plane|PlaneAction.001
+  - first:
+      74: 2844147457224530074
+    second: Plane|Plane.001|Plane|PlaneAction|Plane|PlaneAction
+  - first:
+      74: -4879395467308279232
+    second: Plane|Plane.001|Plane|SceneAction|Plane|SceneAction
+  - first:
+      74: -5187248419258813496
+    second: Plane|PlaneAction
+  - first:
+      74: -7218490717262395308
+    second: Plane|PlaneAction.001
+  - first:
+      74: -5014157362501484014
+    second: Plane|SceneAction
+  - first:
+      74: 6712369695479197947
+    second: Cube.002|Cube.002Action
+  - first:
+      74: 6188143692413826237
+    second: Cube.002|Cube.002Action.001
+  - first:
+      74: 1478379759493513386
+    second: Cube.002|Cube.029|Cube.002|Cube.002Action.001|Cube.002|Cube.002Action.00
+  - first:
+      74: -7970517383746234046
+    second: Cube.002|Cube.029|Cube.002|Cube.002Action|Cube.002|Cube.002Action
+  - first:
+      74: 6452417669654687231
+    second: Cube.002|Cube.029|Cube.002|PlaneAction.001|Cube.002|PlaneAction.001
+  - first:
+      74: 5134174581941130496
+    second: Cube.002|Cube.029|Cube.002|PlaneAction|Cube.002|PlaneAction
+  - first:
+      74: 7240170995114367138
+    second: Cube.002|Cube.029|Cube.002|SceneAction|Cube.002|SceneAction
+  - first:
+      74: -6596093872915857161
+    second: Cube.002|Plane.001|Plane|Cube.002Action.001|Plane|Cube.002Action.001
+  - first:
+      74: 4390613649648272691
+    second: Cube.002|Plane.001|Plane|Cube.002Action|Plane|Cube.002Action
+  - first:
+      74: 6607679458367535358
+    second: Cube.002|Plane.001|Plane|PlaneAction.001|Plane|PlaneAction.001
+  - first:
+      74: 7664800662651395901
+    second: Cube.002|Plane.001|Plane|PlaneAction|Plane|PlaneAction
+  - first:
+      74: 6664928771164382359
+    second: Cube.002|Plane.001|Plane|SceneAction|Plane|SceneAction
+  - first:
+      74: 2107512304573994466
+    second: Cube.002|PlaneAction
+  - first:
+      74: -7379487094313019922
+    second: Cube.002|PlaneAction.001
+  - first:
+      74: -7042274175151226224
+    second: Cube.002|SceneAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
